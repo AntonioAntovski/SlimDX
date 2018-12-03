@@ -1,0 +1,16 @@
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Pyramid\obj\Debug\Pyramid.csprojAssemblyReference.cache
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Pyramid\obj\Debug\Pyramid.csproj.CoreCompileInputs.cache
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Pyramid\bin\Debug\Pyramid.exe.config
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Pyramid\bin\Debug\Pyramid.exe
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Pyramid\bin\Debug\Pyramid.pdb
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Pyramid\bin\Debug\Core.dll
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Pyramid\bin\Debug\SlimDX.dll
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Pyramid\bin\Debug\SpriteTextRenderer.dll
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Pyramid\bin\Debug\AssimpNet.dll
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Pyramid\bin\Debug\Core.pdb
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Pyramid\bin\Debug\SlimDX.pdb
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Pyramid\bin\Debug\SlimDX.xml
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Pyramid\bin\Debug\AssimpNet.xml
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Pyramid\obj\Debug\Pyramid.csproj.CopyComplete
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Pyramid\obj\Debug\Pyramid.exe
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Pyramid\obj\Debug\Pyramid.pdb
