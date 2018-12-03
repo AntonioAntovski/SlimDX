@@ -1,0 +1,22 @@
+C:\Users\Antonio\Desktop\3Shape\dx11\DX11\Core\bin\Debug\Core.dll
+C:\Users\Antonio\Desktop\3Shape\dx11\DX11\Core\bin\Debug\Core.pdb
+C:\Users\Antonio\Desktop\3Shape\dx11\DX11\Core\bin\Debug\AssimpNet.dll
+C:\Users\Antonio\Desktop\3Shape\dx11\DX11\Core\bin\Debug\SlimDX.dll
+C:\Users\Antonio\Desktop\3Shape\dx11\DX11\Core\bin\Debug\SpriteTextRenderer.dll
+C:\Users\Antonio\Desktop\3Shape\dx11\DX11\Core\bin\Debug\AssimpNet.xml
+C:\Users\Antonio\Desktop\3Shape\dx11\DX11\Core\obj\Debug\Core.csprojAssemblyReference.cache
+C:\Users\Antonio\Desktop\3Shape\dx11\DX11\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Desktop\3Shape\dx11\DX11\Core\obj\Debug\Core.csproj.CopyComplete
+C:\Users\Antonio\Desktop\3Shape\dx11\DX11\Core\obj\Debug\Core.dll
+C:\Users\Antonio\Desktop\3Shape\dx11\DX11\Core\obj\Debug\Core.pdb
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Core\bin\Debug\Core.dll
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Core\bin\Debug\Core.pdb
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Core\bin\Debug\AssimpNet.dll
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Core\bin\Debug\SlimDX.dll
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Core\bin\Debug\SpriteTextRenderer.dll
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Core\bin\Debug\AssimpNet.xml
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Core\obj\Debug\Core.csprojAssemblyReference.cache
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Core\obj\Debug\Core.csproj.CopyComplete
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Core\obj\Debug\Core.dll
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Core\obj\Debug\Core.pdb

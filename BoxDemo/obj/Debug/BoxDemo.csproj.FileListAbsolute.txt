@@ -1,0 +1,16 @@
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\BoxDemo\obj\Debug\BoxDemo.csprojAssemblyReference.cache
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\BoxDemo\obj\Debug\BoxDemo.csproj.CoreCompileInputs.cache
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\BoxDemo\bin\Debug\BoxDemo.exe.config
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\BoxDemo\bin\Debug\BoxDemo.exe
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\BoxDemo\bin\Debug\BoxDemo.pdb
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\BoxDemo\bin\Debug\SlimDX.dll
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\BoxDemo\bin\Debug\SlimDX.pdb
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\BoxDemo\bin\Debug\SlimDX.xml
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\BoxDemo\obj\Debug\BoxDemo.csproj.CopyComplete
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\BoxDemo\obj\Debug\BoxDemo.exe
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\BoxDemo\obj\Debug\BoxDemo.pdb
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\BoxDemo\bin\Debug\Core.dll
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\BoxDemo\bin\Debug\SpriteTextRenderer.dll
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\BoxDemo\bin\Debug\AssimpNet.dll
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\BoxDemo\bin\Debug\Core.pdb
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\BoxDemo\bin\Debug\AssimpNet.xml

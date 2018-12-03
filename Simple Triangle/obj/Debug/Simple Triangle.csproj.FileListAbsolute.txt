@@ -1,0 +1,21 @@
+C:\Users\Antonio\Desktop\3Shape\SlimDX Antonio\SlimDX Tutorial\Simple Triangle\bin\Debug\Simple Triangle.exe.config
+C:\Users\Antonio\Desktop\3Shape\SlimDX Antonio\SlimDX Tutorial\Simple Triangle\bin\Debug\Simple Triangle.exe
+C:\Users\Antonio\Desktop\3Shape\SlimDX Antonio\SlimDX Tutorial\Simple Triangle\bin\Debug\Simple Triangle.pdb
+C:\Users\Antonio\Desktop\3Shape\SlimDX Antonio\SlimDX Tutorial\Simple Triangle\bin\Debug\SlimDX.dll
+C:\Users\Antonio\Desktop\3Shape\SlimDX Antonio\SlimDX Tutorial\Simple Triangle\bin\Debug\SlimDX.pdb
+C:\Users\Antonio\Desktop\3Shape\SlimDX Antonio\SlimDX Tutorial\Simple Triangle\bin\Debug\SlimDX.xml
+C:\Users\Antonio\Desktop\3Shape\SlimDX Antonio\SlimDX Tutorial\Simple Triangle\obj\Debug\Simple Triangle.csprojAssemblyReference.cache
+C:\Users\Antonio\Desktop\3Shape\SlimDX Antonio\SlimDX Tutorial\Simple Triangle\obj\Debug\Simple Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Desktop\3Shape\SlimDX Antonio\SlimDX Tutorial\Simple Triangle\obj\Debug\Simple Triangle.csproj.CopyComplete
+C:\Users\Antonio\Desktop\3Shape\SlimDX Antonio\SlimDX Tutorial\Simple Triangle\obj\Debug\Simple Triangle.exe
+C:\Users\Antonio\Desktop\3Shape\SlimDX Antonio\SlimDX Tutorial\Simple Triangle\obj\Debug\Simple Triangle.pdb
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Simple Triangle\bin\Debug\Simple Triangle.exe.config
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Simple Triangle\bin\Debug\Simple Triangle.exe
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Simple Triangle\bin\Debug\Simple Triangle.pdb
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Simple Triangle\bin\Debug\SlimDX.dll
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Simple Triangle\bin\Debug\SlimDX.pdb
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Simple Triangle\bin\Debug\SlimDX.xml
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Simple Triangle\obj\Debug\Simple Triangle.csproj.CoreCompileInputs.cache
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Simple Triangle\obj\Debug\Simple Triangle.csproj.CopyComplete
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Simple Triangle\obj\Debug\Simple Triangle.exe
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Simple Triangle\obj\Debug\Simple Triangle.pdb

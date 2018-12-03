@@ -1,0 +1,22 @@
+C:\Users\Antonio\Desktop\3Shape\SlimDX Antonio\Basic Window\Basic Window\bin\Debug\Basic Window.exe.config
+C:\Users\Antonio\Desktop\3Shape\SlimDX Antonio\Basic Window\Basic Window\bin\Debug\Basic Window.exe
+C:\Users\Antonio\Desktop\3Shape\SlimDX Antonio\Basic Window\Basic Window\bin\Debug\Basic Window.pdb
+C:\Users\Antonio\Desktop\3Shape\SlimDX Antonio\Basic Window\Basic Window\bin\Debug\SlimDX.dll
+C:\Users\Antonio\Desktop\3Shape\SlimDX Antonio\Basic Window\Basic Window\bin\Debug\SlimDX.pdb
+C:\Users\Antonio\Desktop\3Shape\SlimDX Antonio\Basic Window\Basic Window\bin\Debug\SlimDX.xml
+C:\Users\Antonio\Desktop\3Shape\SlimDX Antonio\Basic Window\Basic Window\obj\Debug\Basic Window.csprojAssemblyReference.cache
+C:\Users\Antonio\Desktop\3Shape\SlimDX Antonio\Basic Window\Basic Window\obj\Debug\Basic Window.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Desktop\3Shape\SlimDX Antonio\Basic Window\Basic Window\obj\Debug\Basic Window.csproj.CopyComplete
+C:\Users\Antonio\Desktop\3Shape\SlimDX Antonio\Basic Window\Basic Window\obj\Debug\Basic Window.exe
+C:\Users\Antonio\Desktop\3Shape\SlimDX Antonio\Basic Window\Basic Window\obj\Debug\Basic Window.pdb
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Basic Window\bin\Debug\Basic Window.exe.config
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Basic Window\bin\Debug\Basic Window.exe
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Basic Window\bin\Debug\Basic Window.pdb
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Basic Window\bin\Debug\SlimDX.dll
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Basic Window\bin\Debug\SlimDX.pdb
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Basic Window\bin\Debug\SlimDX.xml
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Basic Window\obj\Debug\Basic Window.csprojAssemblyReference.cache
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Basic Window\obj\Debug\Basic Window.csproj.CoreCompileInputs.cache
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Basic Window\obj\Debug\Basic Window.csproj.CopyComplete
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Basic Window\obj\Debug\Basic Window.exe
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Basic Window\obj\Debug\Basic Window.pdb

@@ -1,0 +1,22 @@
+C:\Users\Antonio\Desktop\3Shape\SlimDX Antonio\SlimDX Tutorial\Device Creation\bin\Debug\Device Creation.exe.config
+C:\Users\Antonio\Desktop\3Shape\SlimDX Antonio\SlimDX Tutorial\Device Creation\bin\Debug\Device Creation.exe
+C:\Users\Antonio\Desktop\3Shape\SlimDX Antonio\SlimDX Tutorial\Device Creation\bin\Debug\Device Creation.pdb
+C:\Users\Antonio\Desktop\3Shape\SlimDX Antonio\SlimDX Tutorial\Device Creation\bin\Debug\SlimDX.dll
+C:\Users\Antonio\Desktop\3Shape\SlimDX Antonio\SlimDX Tutorial\Device Creation\bin\Debug\SlimDX.pdb
+C:\Users\Antonio\Desktop\3Shape\SlimDX Antonio\SlimDX Tutorial\Device Creation\bin\Debug\SlimDX.xml
+C:\Users\Antonio\Desktop\3Shape\SlimDX Antonio\SlimDX Tutorial\Device Creation\obj\Debug\Device Creation.csprojAssemblyReference.cache
+C:\Users\Antonio\Desktop\3Shape\SlimDX Antonio\SlimDX Tutorial\Device Creation\obj\Debug\Device Creation.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Desktop\3Shape\SlimDX Antonio\SlimDX Tutorial\Device Creation\obj\Debug\Device Creation.csproj.CopyComplete
+C:\Users\Antonio\Desktop\3Shape\SlimDX Antonio\SlimDX Tutorial\Device Creation\obj\Debug\Device Creation.exe
+C:\Users\Antonio\Desktop\3Shape\SlimDX Antonio\SlimDX Tutorial\Device Creation\obj\Debug\Device Creation.pdb
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Device Creation\bin\Debug\Device Creation.exe.config
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Device Creation\bin\Debug\Device Creation.exe
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Device Creation\bin\Debug\Device Creation.pdb
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Device Creation\bin\Debug\SlimDX.dll
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Device Creation\bin\Debug\SlimDX.pdb
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Device Creation\bin\Debug\SlimDX.xml
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Device Creation\obj\Debug\Device Creation.csprojAssemblyReference.cache
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Device Creation\obj\Debug\Device Creation.csproj.CoreCompileInputs.cache
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Device Creation\obj\Debug\Device Creation.csproj.CopyComplete
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Device Creation\obj\Debug\Device Creation.exe
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Device Creation\obj\Debug\Device Creation.pdb

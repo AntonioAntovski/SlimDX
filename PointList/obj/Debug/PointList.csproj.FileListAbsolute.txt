@@ -1,0 +1,16 @@
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\PointList\bin\Debug\PointList.exe.config
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\PointList\bin\Debug\PointList.exe
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\PointList\bin\Debug\PointList.pdb
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\PointList\bin\Debug\SlimDX.dll
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\PointList\bin\Debug\SlimDX.pdb
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\PointList\bin\Debug\SlimDX.xml
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\PointList\obj\Debug\PointList.csproj.CoreCompileInputs.cache
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\PointList\obj\Debug\PointList.csproj.CopyComplete
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\PointList\obj\Debug\PointList.exe
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\PointList\obj\Debug\PointList.pdb
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\PointList\bin\Debug\Core.dll
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\PointList\bin\Debug\SpriteTextRenderer.dll
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\PointList\bin\Debug\AssimpNet.dll
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\PointList\bin\Debug\Core.pdb
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\PointList\bin\Debug\AssimpNet.xml
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\PointList\obj\Debug\PointList.csprojAssemblyReference.cache
