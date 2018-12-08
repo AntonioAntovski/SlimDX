@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pyramid", "Pyramid\Pyramid.csproj", "{B6A8E97C-2AB3-4D31-9D6C-04B473C22450}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RippleGrid", "RippleGrid\RippleGrid.csproj", "{603225EC-EEFA-4FD6-AB06-1F471D2F59FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RollingSphere", "RollingSphere\RollingSphere.csproj", "{77DEC4B2-7CEE-4035-A184-CF3273189083}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{B6A8E97C-2AB3-4D31-9D6C-04B473C22450}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6A8E97C-2AB3-4D31-9D6C-04B473C22450}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6A8E97C-2AB3-4D31-9D6C-04B473C22450}.Release|Any CPU.Build.0 = Release|Any CPU
+		{603225EC-EEFA-4FD6-AB06-1F471D2F59FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{603225EC-EEFA-4FD6-AB06-1F471D2F59FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{603225EC-EEFA-4FD6-AB06-1F471D2F59FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{603225EC-EEFA-4FD6-AB06-1F471D2F59FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77DEC4B2-7CEE-4035-A184-CF3273189083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77DEC4B2-7CEE-4035-A184-CF3273189083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77DEC4B2-7CEE-4035-A184-CF3273189083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77DEC4B2-7CEE-4035-A184-CF3273189083}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

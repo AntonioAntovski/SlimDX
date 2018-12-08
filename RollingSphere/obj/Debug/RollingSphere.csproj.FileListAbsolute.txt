@@ -1,0 +1,16 @@
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\RollingSphere\bin\Debug\RollingSphere.exe.config
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\RollingSphere\bin\Debug\RollingSphere.exe
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\RollingSphere\bin\Debug\RollingSphere.pdb
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\RollingSphere\bin\Debug\Core.dll
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\RollingSphere\bin\Debug\SlimDX.dll
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\RollingSphere\bin\Debug\SpriteTextRenderer.dll
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\RollingSphere\bin\Debug\AssimpNet.dll
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\RollingSphere\bin\Debug\Core.pdb
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\RollingSphere\bin\Debug\SlimDX.pdb
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\RollingSphere\bin\Debug\SlimDX.xml
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\RollingSphere\bin\Debug\AssimpNet.xml
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\RollingSphere\obj\Debug\RollingSphere.csprojAssemblyReference.cache
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\RollingSphere\obj\Debug\RollingSphere.csproj.CoreCompileInputs.cache
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\RollingSphere\obj\Debug\RollingSphere.csproj.CopyComplete
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\RollingSphere\obj\Debug\RollingSphere.exe
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\RollingSphere\obj\Debug\RollingSphere.pdb

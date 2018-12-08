@@ -52,13 +52,13 @@ namespace Simple_Triangle
             context.OutputMerger.SetTargets(renderTargetView);
             context.Rasterizer.SetViewports(viewport);
 
-            using (var bytecode = ShaderBytecode.CompileFromFile("C:\\Users\\Antonio\\Desktop\\3Shape\\SlimDX Antonio\\SlimDX Tutorial\\Simple Triangle\\triangle.fx", "VShader", "vs_4_0", ShaderFlags.None, EffectFlags.None))
+            using (var bytecode = ShaderBytecode.CompileFromFile(@"D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Simple Triangle\triangle.fx", "VShader", "vs_4_0", ShaderFlags.None, EffectFlags.None))
             {
                 shaderSignature = ShaderSignature.GetInputSignature(bytecode);
                 vertexShader = new VertexShader(device, bytecode);
             }
 
-            using (var bytecode = ShaderBytecode.CompileFromFile("C:\\Users\\Antonio\\Desktop\\3Shape\\SlimDX Antonio\\SlimDX Tutorial\\Simple Triangle\\triangle.fx", "PShader", "ps_4_0", ShaderFlags.None, EffectFlags.None))
+            using (var bytecode = ShaderBytecode.CompileFromFile(@"D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Simple Triangle\triangle.fx", "PShader", "ps_4_0", ShaderFlags.None, EffectFlags.None))
                 pixelShader = new PixelShader(device, bytecode);
 
             var vertices = new DataStream(12 * 3, true, true);

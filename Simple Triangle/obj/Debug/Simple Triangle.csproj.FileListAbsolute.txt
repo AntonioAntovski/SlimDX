@@ -19,3 +19,4 @@ D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Simple Triangle\obj\Debug\Simple Triang
 D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Simple Triangle\obj\Debug\Simple Triangle.csproj.CopyComplete
 D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Simple Triangle\obj\Debug\Simple Triangle.exe
 D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Simple Triangle\obj\Debug\Simple Triangle.pdb
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Simple Triangle\obj\Debug\Simple Triangle.csprojAssemblyReference.cache

@@ -1,0 +1,16 @@
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\RippleGrid\obj\Debug\RippleGrid.csprojAssemblyReference.cache
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\RippleGrid\obj\Debug\RippleGrid.csproj.CoreCompileInputs.cache
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\RippleGrid\bin\Debug\RippleGrid.exe.config
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\RippleGrid\bin\Debug\RippleGrid.exe
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\RippleGrid\bin\Debug\RippleGrid.pdb
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\RippleGrid\bin\Debug\Core.dll
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\RippleGrid\bin\Debug\SlimDX.dll
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\RippleGrid\bin\Debug\SpriteTextRenderer.dll
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\RippleGrid\bin\Debug\AssimpNet.dll
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\RippleGrid\bin\Debug\Core.pdb
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\RippleGrid\bin\Debug\SlimDX.pdb
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\RippleGrid\bin\Debug\SlimDX.xml
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\RippleGrid\bin\Debug\AssimpNet.xml
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\RippleGrid\obj\Debug\RippleGrid.csproj.CopyComplete
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\RippleGrid\obj\Debug\RippleGrid.exe
+D:\3Shape\SlimDX Antonio\SlimDX Tutorial\RippleGrid\obj\Debug\RippleGrid.pdb

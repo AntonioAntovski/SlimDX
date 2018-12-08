@@ -227,7 +227,7 @@ namespace Pyramid
 
         private void BuildFX()
         {
-            ShaderBytecode compiledBytecode = ShaderBytecode.CompileFromFile("D:\\3Shape\\SlimDX Antonio\\SlimDX Tutorial\\Pyramid\\pyramid.fx", "fx_5_0", ShaderFlags.None, EffectFlags.None);
+            ShaderBytecode compiledBytecode = ShaderBytecode.CompileFromFile(@"D:\3Shape\SlimDX Antonio\SlimDX Tutorial\Pyramid\pyramid.fx", "fx_5_0", ShaderFlags.None, EffectFlags.None);
             effect = new Effect(Device, compiledBytecode);
 
             effectTechnique = effect.GetTechniqueByName("ColorTech");
